@@ -238,6 +238,9 @@
 /datum/loadout_item/donator/universal/donator_jacketed_gambeson_long
 	name = "Gift - Kit, Long Jacketed Gambeson"
 	path = /obj/item/enchantingkit/donator_jacketed_gambeson_long
+/datum/loadout_item/donator/universal/donator_hose
+	name = "Gift - Kit, Hosen"
+	path = /obj/item/enchantingkit/donator_hose
 
 // --- GRENZEL REGIONAL ---
 

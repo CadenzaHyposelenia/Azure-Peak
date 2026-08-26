@@ -414,6 +414,18 @@
 	)
 	result_item = null
 
+/obj/item/enchantingkit/donator_hose
+	name = "'Hosen' morphing elixr"
+	desc = "A small container of special morphing dust, perfect to make a specific item. It can be used to alter the appearance of a pair of chain chausses, or leather trousers."
+	target_items = list(
+		/obj/item/clothing/under/roguetown/chainlegs = /obj/item/clothing/under/roguetown/chainlegs/hose,
+		/obj/item/clothing/under/roguetown/chainlegs/iron = /obj/item/clothing/under/roguetown/chainlegs/iron/hose,
+		/obj/item/clothing/under/roguetown/trou/leather = /obj/item/clothing/under/roguetown/trou/leather/hose,
+		/obj/item/clothing/under/roguetown/heavy_leather_pants = /obj/item/clothing/under/roguetown/heavy_leather_pants/hose
+	)
+	result_item = null
+	exact_type = TRUE
+
 /obj/item/enchantingkit/donator_universal_shield
 	name = "'Elegant Kite Shield' morphing elixir"
 	desc = "A small container of special morphing dust, perfect to make a specific item. It can be used to alter the appearance of a Kite Shield."

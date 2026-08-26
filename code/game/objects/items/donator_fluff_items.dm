@@ -375,6 +375,22 @@
 	item_state = "plackarts"
 	icon_state = "plackarts"
 
+/obj/item/clothing/under/roguetown/heavy_leather_pants/hose
+	name = "heavy leather hose"
+	desc = "A pair leggings made of thickened leather. Worn with short-clothes underneath to cover the lower-body by most, save for the exceptionally daring."
+	icon = 'icons/clothing/donor_clothes.dmi'
+	mob_overlay_icon = 'icons/clothing/onmob/donor_clothes.dmi'
+	item_state = "leatherhose"
+	icon_state = "leatherhose"
+
+/obj/item/clothing/under/roguetown/trou/leather/hose
+	name = "leather hose"
+	desc = "A thinner pair leggings made of leather. Worn with short-clothes underneath to cover the lower-body by most, save for the exceptionally daring."
+	icon = 'icons/clothing/donor_clothes.dmi'
+	mob_overlay_icon = 'icons/clothing/onmob/donor_clothes.dmi'
+	item_state = "leatherhose"
+	icon_state = "leatherhose"
+
 /obj/item/clothing/suit/roguetown/armor/plate/cuirass/iron/donator_girdle
 	name = "iron plackart"
 	desc = "A curious - and particularly revealing - variant of an iron cuirass. It's said that the intentionally provocative design \

@@ -7,6 +7,18 @@
 //'Replacement' variants. These specifically replace the item-in-question with a whole new instance. More bloatish, but ensures complete adherence to skin restrictions and allows for supplemental tweaks (like new onmobs.)
 // No harm in using these if you prefer, but it's strongly suggested to implement reskins via the 'Skinned' system, below. This works best for clothing (like plate armor) and special weapons (like silver or avantyne.)
 
+/obj/item/enchantingkit/triumph_armorkit_hose
+	name = "'Hosen' transmutation elixr"
+	desc = "A small container of special morphing dust, perfect to make a specific item. It can be used to alter the appearance of a pair of chain chausses, or leather trousers."
+	target_items = list(
+		/obj/item/clothing/under/roguetown/chainlegs = /obj/item/clothing/under/roguetown/chainlegs/hose,
+		/obj/item/clothing/under/roguetown/chainlegs/iron = /obj/item/clothing/under/roguetown/chainlegs/iron/hose,
+		/obj/item/clothing/under/roguetown/trou/leather = /obj/item/clothing/under/roguetown/trou/leather/hose,
+		/obj/item/clothing/under/roguetown/heavy_leather_pants = /obj/item/clothing/under/roguetown/heavy_leather_pants/hose
+	)
+	result_item = null
+	exact_type = TRUE
+
 /obj/item/enchantingkit/triumph_armorkit
 	name = "'Valorian Steel Armor' morphing elixir"
 	desc = "A small container of special morphing dust, perfect to make a specific item. It can restore the original appearance of a Steel Cuirass, a Steel Halfplate, a set of Steel Plate Armor, or a set of Fluted Plate Armor."
