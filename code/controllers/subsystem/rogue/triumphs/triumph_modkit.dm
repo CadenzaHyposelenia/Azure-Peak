@@ -378,7 +378,6 @@
 	desc = "A small container of special morphing dust, perfect to make a specific item. It can be used to alter the appearance of an Iron Sabre, a Steel Sabre, a Falx, or a Falchion."
 	target_items = list(
 		/obj/item/rogueweapon/sword/short/falchion,
-		/obj/item/rogueweapon/sword/saber/iron,
 		/obj/item/rogueweapon/sword/sabre,
 		/obj/item/rogueweapon/sword/falx
 		)
@@ -389,7 +388,6 @@
 	desc = "A small container of special morphing dust, perfect to make a specific item. It can be used to alter the appearance of an Iron Sabre, a Steel Sabre, a Falx, or a Falchion."
 	target_items = list(
 		/obj/item/rogueweapon/sword/short/falchion,
-		/obj/item/rogueweapon/sword/saber/iron,
 		/obj/item/rogueweapon/sword/sabre,
 		/obj/item/rogueweapon/sword/falx
 		)
