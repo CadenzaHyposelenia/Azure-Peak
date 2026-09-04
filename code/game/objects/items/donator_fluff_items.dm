@@ -373,22 +373,6 @@
 	item_state = "plackarts"
 	icon_state = "plackarts"
 
-/obj/item/clothing/under/roguetown/heavy_leather_pants/hose
-	name = "heavy leather hose"
-	desc = "A pair leggings made of thickened leather. Worn with short-clothes underneath to cover the lower-body by most, save for the exceptionally daring."
-	icon = 'icons/clothing/donor_clothes.dmi'
-	mob_overlay_icon = 'icons/clothing/onmob/donor_clothes.dmi'
-	item_state = "leatherhose"
-	icon_state = "leatherhose"
-
-/obj/item/clothing/under/roguetown/trou/leather/hose
-	name = "leather hose"
-	desc = "A thinner pair leggings made of leather. Worn with short-clothes underneath to cover the lower-body by most, save for the exceptionally daring."
-	icon = 'icons/clothing/donor_clothes.dmi'
-	mob_overlay_icon = 'icons/clothing/onmob/donor_clothes.dmi'
-	item_state = "leatherhose"
-	icon_state = "leatherhose"
-
 /obj/item/clothing/suit/roguetown/armor/plate/cuirass/iron/donator_girdle
 	name = "iron plackart"
 	desc = "A curious - and particularly revealing - variant of an iron cuirass. It's said that the intentionally provocative design \
@@ -2458,7 +2442,7 @@ As Excaliber."
 
 /obj/item/rogueweapon/example/kadedao
 	name = "Spring Cometh"
-	desc = "A blade fashioned after Lingyue's 'Niuweidao,' known mostly for featuring in their fictional literature. How it ended up here is a wonder. It boasts a single profiled cutting edge, and a crescent within the false edge\
+	desc = "A blade fashioned after Lingyue's 'Niuweidao,' known mostly for featuring in their fictional literature. How it ended up here is a wonder. It boasts a single profiled cutting edge, and a crescent within the false edge \
 	This blade has a sort of crossguard, which is uncommon for most dao, more often is a Hūshǒu, a disc-shaped guard similar to Tsubas in Kazengun. Instead of a pommel, there's a ring with red string tied around it, taut and tight. \
 	On one strand, a bell like that of a xylixian's lies dormant. It might've rung once, but now it is silent.\
 	</br>‎<font color='ab6141'>	'Cause winter will end just the same</br></font>‎<font color='e0b172'> 	no matter what</font>"
